@@ -4,7 +4,6 @@ A dynamic, action-packed space shooting game built with **HTML5 Canvas** and **V
 
 🕹️ **[Play Live](https://space-game-nishant.netlify.app/)**  
 📂 **Clone the Repo**:
-```bash
 git clone git@github.com:nishantpatel29/space-game.git
 🌌 Game Objective
 Survive as long as you can! Enemies spawn from all directions — shoot them down before they reach you. Collect points and use them wisely on powerful weapons.
@@ -27,11 +26,16 @@ Add 100 Points	Press Z (Cheat Mode)
 🧟 Multiple difficulty levels (Easy → Insane)
 
 🎶 Background music & SFX (toggle if needed)
-git clone git@github.com:nishantpatel29/space-game.git
-cd space-game
+
+
+
 🧠 Tips for Players
 💡 Heavy and huge weapons cost points — use wisely.
 
 🎯 Avoid letting enemies reach the center.
 
 🔁 Resize browser to reset the game quickly.
+```bash
+git clone git@github.com:nishantpatel29/space-game.git
+cd space-game
+
