@@ -3,7 +3,7 @@
 A dynamic, action-packed space shooting game built with **HTML5 Canvas** and **Vanilla JavaScript**. Face waves of colorful enemies, blast them with light, heavy, or massive weapons, and challenge your reflexes in multiple difficulty modes!
 
 🕹️ **[Play Live](https://space-game-nishant.netlify.app/)** 
-
+ 
 
 📂 **Clone the Repo**:
 git clone git@github.com:nishantpatel29/space-game.git
